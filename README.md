@@ -1,5 +1,5 @@
-# EmployeeManagementSystem_int220
-Employee Management System using PHP
+# EmployeeManagementSystem_int222
+Employee Management System using NODE.js
 
 Hello There, It is a simple university project of Server Side Scripting course. I have made a simple UI and basic SQL commands to make this project.
 Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on. 
@@ -18,10 +18,11 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 * Apply for leave.
 
 ## Languages used for this projects are:
-* PHP
+* NODE.js
 * HTML
 * CSS
 * Javascript
+* PHP
 * My SQL
 
 ## Login Info:
