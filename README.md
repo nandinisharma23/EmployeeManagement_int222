@@ -1,5 +1,5 @@
 # EmployeeManagementSystem_int222
-Employee Management System using NODE.js
+Employee Management System
 
 Hello There, It is a simple university project of Server Side Scripting course. I have made a simple UI and basic SQL commands to make this project.
 Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on. 
